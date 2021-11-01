@@ -10,7 +10,7 @@ Repository of resources for Semester 1 of 3rd Year students at Indian Statistica
 - [X] Physics III
 - [X] Statistics III
 - [ ] Intro to Algebraic Number Theory
-- [ ] Intro to Representation Theory
+- [X] Intro to Representation Theory
 - [ ] Intro to Stochastic Processes
 
 ## How to Use?
